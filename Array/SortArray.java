@@ -1,4 +1,4 @@
-import java.util.*;
+//import java.util.*;
 public class SortArray {
     public static void main(String[] args) {
         int arr[]={12,40,9,65,90,34,16,47,7,10};

@@ -1,4 +1,4 @@
-import java.util.*;
+//import java.util.*;
 public class Sum_Of_Array {
     public static void main(String[] args) {
         int arr[] ={12,34,56,78,98,76,56,78,};
